@@ -21,7 +21,7 @@ export default function Page() {
     <div className="-mt-16 flex h-screen flex-col items-center justify-center">
       {pressedGift ? (
         <img
-          src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWxuYTduZWluNzF6OW80b3c5ZGhieXoxN2pwenRlYWdwZjV2N296ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vr9v03pX4cJmMx2yD8/giphy.gif"
+          src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzZ3a2docTN5dnY1djN6c24xY29wZ2p3MHhkejJuYzFiaDh0NzV4eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UWtFTJwnbVj2z3GEeY/giphy.gif"
           alt="Bear Kiss"
         />
       ) : yesPressed ? (
