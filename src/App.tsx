@@ -27,7 +27,7 @@ export default function Page() {
             ❤️❤️❤️ I love you ❤️❤️❤️
           </div>
           <button
-            onClick={() => (location.href = '/be-my-valentine/gift')}
+            onClick={() => (location.href = '/gift')}
             className="ml-4 rounded bg-purple-500 px-4 py-2 font-bold text-white hover:bg-purple-700"
           >
             GIFT
