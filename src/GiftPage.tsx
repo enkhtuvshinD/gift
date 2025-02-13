@@ -1,4 +1,3 @@
-import React from 'react';
 import './flower.css'; // Ensure this file is correctly placed in your styles directory
 
 export default function GiftPage() {
