@@ -14,7 +14,7 @@ export default function Page() {
     const phrases = ['No'];
     return phrases[Math.min(noCount, phrases.length - 1)];
   };
-
+  console.log('1');
   return (
     <div className="-mt-16 flex h-screen flex-col items-center justify-center">
       {yesPressed ? (
